@@ -71,6 +71,9 @@
     <Content Include="2ProgressBar.html" />
     <Content Include="3Scrollspy.html" />
     <Content Include="4Snippet.html" />
+    <Content Include="Assignment\index.png" />
+    <Content Include="Assignment\portfolio-item.png" />
+    <Content Include="Assignment\portfolio-overview.png" />
     <Content Include="css\bootstrap-grid.css" />
     <Content Include="css\bootstrap-grid.min.css" />
     <Content Include="css\bootstrap-grid.rtl.css" />
@@ -122,6 +125,7 @@
     <Content Include="js\bootstrap.esm.min.js.map" />
     <Content Include="js\bootstrap.js.map" />
     <Content Include="js\bootstrap.min.js.map" />
+    <Content Include="Assignment\Assignment2.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
